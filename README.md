@@ -1,1 +1,3 @@
-# Machine-Learning-S23-Project
+# Machine Learning Predictions of Doppler Broadened Nuclear Cross Sections
+#
+#   Nuclear cross section data describes the interaction probabilities between an incident particle (typically a neutron) and a target nucleus. Resonances in the cross section data are specific neutron energy regions where interaction probability is increased. Temperature affects the cross section data, specifically by broadening the resonance peak as temperature increases. The broadening of the resonances due to temperature is called doppler broadening, and is the subject of this project. A machine learning model will be trained on the cross section data for a single target isotope at varying temperatures in order to predict the cross section data without the use of complex software used by the nuclear industry.
